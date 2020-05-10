@@ -1,4 +1,0 @@
-Hello 
-THis 
-is 
-Salman
